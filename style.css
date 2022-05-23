@@ -121,10 +121,13 @@ h2 a {
     vertical-align: middle;
 }
 
-.card-footer a:link,
-.card-footer a:visited  {
+.card-footer a  {
     color: hsl(215, 51%, 80%);
     font-weight: 700;
+}
+
+.card-footer a:hover  {
+    color:  hsl(178, 100%, 50%);
 }
 
 .footer {
